@@ -14,3 +14,10 @@ Rendered episodes for the Python I playlist.
 - `discrete-math/dm01_propositional_logic_16x9.mp4`: Ep. 1, Propositional logic (YouTube video, 1920x1080, 4:01) + `dm01_thumbnail.png`
 - `discrete-math/dm02_converse_trap_16x9.mp4`: Ep. 2, The converse trap (YouTube video, 1920x1080, 3:51) + `dm02_thumbnail.png`
 - `discrete-math/dm03_de_morgan_16x9.mp4`: Ep. 3, De Morgan's laws (YouTube video, 1920x1080, 3:50) + `dm03_thumbnail.png`
+
+## Linear Algebra for Machine Learning
+
+- `linear-algebra/la07_inverse_long_16x9.mp4`: Ep. 7, The inverse matrix (YouTube video, 1920x1080, 4:22)
+- `linear-algebra/la08_det_long_16x9.mp4`: Ep. 8, The determinant (YouTube video, 1920x1080, 4:16)
+- `linear-algebra/la08b_ref_long_16x9.mp4`: Bonus Ep. 8b, Row echelon form (YouTube video, 1920x1080, 4:17)
+- `linear-algebra/la09_rank_long_16x9.mp4`: Ep. 9, Rank, column space & null space (YouTube video, 1920x1080, 4:09)
