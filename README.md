@@ -14,3 +14,9 @@ Rendered episodes for the Python I playlist.
 - `discrete-math/dm01_propositional_logic_16x9.mp4`: Ep. 1, Propositional logic (YouTube video, 1920x1080, 4:01) + `dm01_thumbnail.png`
 - `discrete-math/dm02_converse_trap_16x9.mp4`: Ep. 2, The converse trap (YouTube video, 1920x1080, 3:51) + `dm02_thumbnail.png`
 - `discrete-math/dm03_de_morgan_16x9.mp4`: Ep. 3, De Morgan's laws (YouTube video, 1920x1080, 3:50) + `dm03_thumbnail.png`
+
+## TikTok
+
+Short-form reels published to TikTok only (not Instagram).
+
+- `tiktok/color_battle_01_red.mp4`: Color Battle #1, red wins by 0.7% (TikTok, 1080x1920, 29 s) + `color_battle_01_cover.png`
