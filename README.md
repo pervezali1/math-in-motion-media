@@ -20,3 +20,4 @@ Rendered episodes for the Python I playlist.
 Short-form reels published to TikTok only (not Instagram).
 
 - `tiktok/color_battle_01_red.mp4`: Color Battle #1, red wins by 0.7% (TikTok, 1080x1920, 29 s) + `color_battle_01_cover.png`
+- `tiktok/fourier_01_tiktok_logo.mp4`: Fourier #1, 100 spinning circles draw the TikTok logo (TikTok, 1080x1920, 34 s) + `fourier_01_tiktok_logo_cover.png`
