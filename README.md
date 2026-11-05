@@ -16,3 +16,4 @@ Rendered episodes for the Python I playlist.
 - `discrete-math/dm03_de_morgan_16x9.mp4`: Ep. 3, De Morgan's laws (YouTube video, 1920x1080, 3:50) + `dm03_thumbnail.png`
 - `discrete-math/dm04_quantifiers_16x9.mp4`: Ep. 4, Quantifiers (YouTube video, 1920x1080, 3:51) + `dm04_thumbnail.png`
 - `discrete-math/dm05_inference_16x9.mp4`: Ep. 5, Rules of inference (YouTube video, 1920x1080, 3:45) + `dm05_thumbnail.png`
+- `discrete-math/dm06_direct_proof_16x9.mp4`: Ep. 6, Direct proof & proof by contrapositive (YouTube video, 1920x1080, 3:37) + `dm06_thumbnail.png`
