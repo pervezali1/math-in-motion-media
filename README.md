@@ -15,3 +15,4 @@ Rendered episodes for the Python I playlist.
 - `discrete-math/dm02_converse_trap_16x9.mp4`: Ep. 2, The converse trap (YouTube video, 1920x1080, 3:51) + `dm02_thumbnail.png`
 - `discrete-math/dm03_de_morgan_16x9.mp4`: Ep. 3, De Morgan's laws (YouTube video, 1920x1080, 3:50) + `dm03_thumbnail.png`
 - `discrete-math/dm04_quantifiers_16x9.mp4`: Ep. 4, Quantifiers (YouTube video, 1920x1080, 3:51) + `dm04_thumbnail.png`
+- `discrete-math/dm05_inference_16x9.mp4`: Ep. 5, Rules of inference (YouTube video, 1920x1080, 3:45) + `dm05_thumbnail.png`
