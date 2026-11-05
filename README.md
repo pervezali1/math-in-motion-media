@@ -19,3 +19,4 @@ Rendered episodes for the Python I playlist.
 
 - `calc2/c2_ep01_integration_by_parts.mp4`: Ep. 1, Integration by parts (+ the LIATE trick) (YouTube video, 1920x1080, 4:30)
 - `calc2/c2_ep02_tabular_method.mp4`: Ep. 2, The tabular method & the integral that comes back (YouTube video, 1920x1080, 4:27)
+- `calc2/c2_ep03_trig_integrals.mp4`: Ep. 3, Trig integrals (YouTube video, 1920x1080, 4:01)
