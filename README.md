@@ -17,8 +17,8 @@ Rendered episodes for the Python I playlist.
 - `discrete-math/dm04_quantifiers_16x9.mp4`: Ep. 4, Quantifiers (YouTube video, 1920x1080, 3:51) + `dm04_thumbnail.png`
 - `discrete-math/dm05_inference_16x9.mp4`: Ep. 5, Rules of inference (YouTube video, 1920x1080, 3:45) + `dm05_thumbnail.png`
 - `discrete-math/dm06_direct_proof_16x9.mp4`: Ep. 6, Direct proof & proof by contrapositive (YouTube video, 1920x1080, 3:37) + `dm06_thumbnail.png`
-- `discrete-math/dm11_countable_infinity_16x9.mp4`: Ep. 11, Countable infinity (Hilbert's hotel) (YouTube video, 1920x1080, 3:42) + `dm11_thumbnail.png`
-- `discrete-math/dm08_sets_16x9.mp4`: Ep. 8, Sets & the power set (YouTube video, 1920x1080, 3:42) + `dm08_thumbnail.png`
 - `discrete-math/dm07_contradiction_16x9.mp4`: Ep. 7, Proof by contradiction (YouTube video, 1920x1080, 3:41) + `dm07_thumbnail.png`
-- `discrete-math/dm10_functions_16x9.mp4`: Ep. 10, Functions: one-to-one, onto and inverses (YouTube video, 1920x1080, 3:32) + `dm10_thumbnail.png`
+- `discrete-math/dm08_sets_16x9.mp4`: Ep. 8, Sets & the power set (YouTube video, 1920x1080, 3:42) + `dm08_thumbnail.png`
 - `discrete-math/dm09_set_operations_16x9.mp4`: Ep. 9, Set operations and Venn diagrams (YouTube video, 1920x1080, 3:57) + `dm09_thumbnail.png`
+- `discrete-math/dm10_functions_16x9.mp4`: Ep. 10, Functions: one-to-one, onto and inverses (YouTube video, 1920x1080, 3:32) + `dm10_thumbnail.png`
+- `discrete-math/dm11_countable_infinity_16x9.mp4`: Ep. 11, Countable infinity (Hilbert's hotel) (YouTube video, 1920x1080, 3:42) + `dm11_thumbnail.png`
