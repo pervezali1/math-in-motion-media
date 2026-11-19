@@ -28,3 +28,4 @@ Rendered episodes for the Python I playlist.
 - `discrete-math/dm14_induction_16x9.mp4`: Ep. 14, Mathematical induction (YouTube video, 1920x1080, 3:49) + `dm14_thumbnail.png`
 - `discrete-math/dm16_strong_induction_16x9.mp4`: Ep. 16, Strong induction (YouTube video, 1920x1080, 3:55) + `dm16_thumbnail.png`
 - `discrete-math/dm17_recursion_hanoi_16x9.mp4`: Ep. 17, Recursion and the Tower of Hanoi (YouTube video, 1920x1080, 3:58) + `dm17_thumbnail.png`
+- `discrete-math/dm18_fibonacci_16x9.mp4`: Ep. 18, Fibonacci numbers and the golden ratio (YouTube video, 1920x1080, 4:02) + `dm18_thumbnail.png`
