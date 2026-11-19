@@ -25,3 +25,4 @@ Rendered episodes for the Python I playlist.
 - `discrete-math/dm15_induction_pitfalls_16x9.mp4`: Ep. 15, Induction done right (the all-horses bug) (YouTube video, 1920x1080, 3:52) + `dm15_thumbnail.png`
 - `discrete-math/dm12_uncountable_16x9.mp4`: Ep. 12, Uncountable infinity (Cantor's diagonal) (YouTube video, 1920x1080, 3:55) + `dm12_thumbnail.png`
 - `discrete-math/dm13_relations_16x9.mp4`: Ep. 13, Relations and equivalence classes (YouTube video, 1920x1080, 3:53) + `dm13_thumbnail.png`
+- `discrete-math/dm14_induction_16x9.mp4`: Ep. 14, Mathematical induction (YouTube video, 1920x1080, 3:49) + `dm14_thumbnail.png`
