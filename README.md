@@ -23,3 +23,4 @@ Rendered episodes for the Python I playlist.
 - `discrete-math/dm10_functions_16x9.mp4`: Ep. 10, Functions: one-to-one, onto and inverses (YouTube video, 1920x1080, 3:32) + `dm10_thumbnail.png`
 - `discrete-math/dm11_countable_infinity_16x9.mp4`: Ep. 11, Countable infinity (Hilbert's hotel) (YouTube video, 1920x1080, 3:42) + `dm11_thumbnail.png`
 - `discrete-math/dm15_induction_pitfalls_16x9.mp4`: Ep. 15, Induction done right (the all-horses bug) (YouTube video, 1920x1080, 3:52) + `dm15_thumbnail.png`
+- `discrete-math/dm12_uncountable_16x9.mp4`: Ep. 12, Uncountable infinity (Cantor's diagonal) (YouTube video, 1920x1080, 3:55) + `dm12_thumbnail.png`
