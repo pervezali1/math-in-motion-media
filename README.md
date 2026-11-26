@@ -34,3 +34,4 @@ Rendered episodes for the Python I playlist.
 - `discrete-math/dm21_primes_16x9.mp4`: Ep. 21, Primes and Euclid's proof (YouTube video, 1920x1080, 4:04) + `dm21_thumbnail.png`
 - `discrete-math/dm22_gcd_16x9.mp4`: Ep. 22, The GCD and Euclid's algorithm (YouTube video, 1920x1080, 4:00) + `dm22_thumbnail.png`
 - `discrete-math/dm23_modular_16x9.mp4`: Ep. 23, Modular arithmetic (YouTube video, 1920x1080, 4:02) + `dm23_thumbnail.png`
+- `discrete-math/dm24_bezout_16x9.mp4`: Ep. 24, Bezout's identity and modular inverses (YouTube video, 1920x1080, 4:06) + `dm24_thumbnail.png`
