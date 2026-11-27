@@ -39,3 +39,4 @@ Rendered episodes for the Python I playlist.
 - `discrete-math/dm26_rsa_16x9.mp4`: Ep. 26, RSA: how two primes guard your bank account (YouTube video, 1920x1080, 4:05) + `dm26_thumbnail.png`
 - `discrete-math/dm27_counting_rules_16x9.mp4`: Ep. 27, Counting: the product and sum rules (YouTube video, 1920x1080, 3:52) + `dm27_thumbnail.png`
 - `discrete-math/dm28_permutations_16x9.mp4`: Ep. 28, Permutations (YouTube video, 1920x1080, 3:50) + `dm28_thumbnail.png`
+- `discrete-math/dm29_combinations_16x9.mp4`: Ep. 29, Combinations (YouTube video, 1920x1080, 3:59) + `dm29_thumbnail.png`
