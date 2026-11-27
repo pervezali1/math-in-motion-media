@@ -37,3 +37,4 @@ Rendered episodes for the Python I playlist.
 - `discrete-math/dm24_bezout_16x9.mp4`: Ep. 24, Bezout's identity and modular inverses (YouTube video, 1920x1080, 4:06) + `dm24_thumbnail.png`
 - `discrete-math/dm25_fermat_16x9.mp4`: Ep. 25, Fermat's little theorem (YouTube video, 1920x1080, 4:05) + `dm25_thumbnail.png`
 - `discrete-math/dm26_rsa_16x9.mp4`: Ep. 26, RSA: how two primes guard your bank account (YouTube video, 1920x1080, 4:05) + `dm26_thumbnail.png`
+- `discrete-math/dm27_counting_rules_16x9.mp4`: Ep. 27, Counting: the product and sum rules (YouTube video, 1920x1080, 3:52) + `dm27_thumbnail.png`
